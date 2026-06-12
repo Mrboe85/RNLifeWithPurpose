@@ -1,0 +1,27 @@
+RNLifeWithPurpose/
+│
+├── index.html
+├── about.html
+├── education.html
+├── advocacy.html
+├── blog.html
+├── media.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── bonin-main.jpg
+│   ├── bonin-or.jpg
+│   ├── bonin-vlogger.jpg
+│   ├── bonin-corporate.jpg
+│   └── cover-photo.jpg
+│
+├── favicon.ico
+├── sitemap.xml
+└── robots.txt
